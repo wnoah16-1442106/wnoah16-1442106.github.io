@@ -1,0 +1,111 @@
+body{
+    background-image: url(pipes.png)
+}
+
+p{ 
+    color: white;
+    font-family: Arial;
+    background-color: orange
+
+}
+
+h3{
+    font-size: 40px; font-family: 'Tillana';
+     color:red; font-weight: bold;
+    background-color:beige;
+
+}
+
+a{
+    color: white;
+    font-weight: bold;
+    font-size:24px;
+}
+li{
+
+}
+
+#Header{
+    width: 400px;
+    height: 100px;
+    margin-left:auto;
+    margin-right:auto;    
+    padding-bottom:90px;
+   
+    text-align: center;
+    
+    
+    
+ 
+}
+
+#Header h1{
+    width: 350px;
+    font-size: 40px; font-family: 'Tillana';
+     color: red; font-weight: bold;
+    background-color:yellow;
+    text-align: center;
+    padding-left: 40 px;
+    border: dashed 8px black;
+    padding-bottom: 60px;
+}
+
+#LeftNav{
+        border-radius: 25px;
+        background: black;
+        padding: 20px; 
+        width: 200px;
+        height: 150px; 
+    }
+}
+
+#LeftNav img{
+    width: 190px;
+    height: 140 px;
+    padding-bottom: 40px;
+    padding-top: 0px;
+    margin-bottom: 40px;
+    margin-top: 0px;
+     
+    
+}
+
+#LeftNav ul{
+    list-style-type: none;
+    padding-left:0px;
+
+}
+
+#LeftNav h3{
+   font-size: 40px; font-family: "Passion One"; 
+    margin-bottom: 0px;
+    background-color: rgb(117, 107, 13);
+
+
+}
+
+#Content{
+    width:700px;
+    height:500px;
+    border: solid 8px black;
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+}
+#Content img{
+    width:400px;
+    height:300px;
+    margin:auto;
+}
+
+#Footer{
+    border: solid 8px black;
+    text-align: center;
+    background-color: rgb(226, 144, 21);
+
+}
+#Footer ul{
+    list-style-type: none;
+    padding-left: 0px;
+
+}
